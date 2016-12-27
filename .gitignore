@@ -1,0 +1,4 @@
+node_modules
+requests*/*
+needs_to_be_on*
+unknown_country_code*
